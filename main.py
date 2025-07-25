@@ -1,5 +1,6 @@
+import datetime
+
 import folium
-import pandas as pd
 import streamlit as st
 from streamlit_folium import folium_static
 
@@ -70,4 +71,15 @@ Sobald wir uns auf einen Ort geeinigt haben, kann’s an die Unterkunftsplanung 
 """)
 
 folium_static(m)
+target_date = datetime.datetime(2025, 9, 5, 0, 0, 0)
+now = datetime.datetime.now()
+
+countdown = target_date - now
+
+days = countdown.days
+hours, remainder = divmod(countdown.seconds, 3600)
+minutes, seconds = divmod(remainder, 60)
+
+st.markdown("### ⏳ Countdown bis zum Ausflug (bis **5. September 2025**):")
+st.info(f"**Noch {days} Tage, {hours} Stunden, {minutes} Minuten und {seconds} Sekunden!**")
 

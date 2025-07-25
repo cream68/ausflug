@@ -1,6 +1,7 @@
 locations_trip = {
     1: ("Radolfzell am Bodensee", (47.7452, 8.9669)),
     2: ("Blaubeuren", (48.41215, 9.78417)),
+    3: ("Tübingen", (48.521637, 9.057645)),
 }
 
 restaurants = [

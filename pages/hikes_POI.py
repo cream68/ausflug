@@ -106,7 +106,6 @@ folium.Marker(
     icon=folium.Icon(icon="star", prefix="fa", color="green")
 ).add_to(m)
 
-st.subheader("Interactive Map")
 folium_static(m)
 
 st.subheader("POI List")

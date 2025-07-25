@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+  <metadata>
+    <name>Blaubeuren - Küssende Sau, Blautopf und Urmu</name>
+    <author>
+      <name>Günther Weinert - Wanderfex - Günther Weinert</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/113114470"/>
+    <time>2025-06-12T13:09:18.055Z</time>
+    <extensions>
+      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>Blaubeuren - Küssende Sau, Blautopf und Urmu</name>
+    <desc>Eine Rundwanderung zu vielen historischen und landschaftlichen Besonderheiten, die eng mit den Steinzeitmenschen verbunden ist. Auf kurzer Strecke viel Natur und Kultur.</desc>
+    <type>hikingTourTrail</type>
+    <trkseg>
+      <trkpt lat="48.412494" lon="9.786213">
+        <ele>510.6</ele>
+        <name>Aachgasse, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.412377" lon="9.786174">
+        <ele>510.5</ele>
+      </trkpt>
+      <trkpt lat="48.412336" lon="9.786015">
+        <ele>510.7</ele>
+      </trkpt>
+      <trkpt lat="48.412233" lon="9.785984">
+        <ele>510.7</ele>
+      </trkpt>
+      <trkpt lat="48.412258" lon="9.785876">
+        <ele>510.8</ele>
+      </trkpt>
+      <trkpt lat="48.412282" lon="9.785789">
+        <ele>510.9</ele>
+      </trkpt>
+      <trkpt lat="48.412297" lon="9.785716">
+        <ele>511.0</ele>
+      </trkpt>
+      <trkpt lat="48.412299" lon="9.785703">
+        <ele>511.0</ele>
+      </trkpt>
+      <trkpt lat="48.412305" lon="9.785676">
+        <ele>511.0</ele>
+      </trkpt>
+      <trkpt lat="48.4123" lon="9.785563">
+        <ele>511.2</ele>
+        <name>Kirchplatz, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.412296" lon="9.785464">
+        <ele>511.3</ele>
+      </trkpt>
+      <trkpt lat="48.412281" lon="9.785317">
+        <ele>511.5</ele>
+      </trkpt>
+      <trkpt lat="48.412269" lon="9.785196">
+        <ele>511.7</ele>
+      </trkpt>
+      <trkpt lat="48.412132" lon="9.785312">
+        <ele>511.4</ele>
+      </trkpt>
+      <trkpt lat="48.412109" lon="9.785401">
+        <ele>511.3</ele>
+      </trkpt>
+      <trkpt lat="48.412026" lon="9.785506">
+        <ele>511.1</ele>
+        <name>Kirchplatz, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.412013" lon="9.785523">
+        <ele>511.1</ele>
+      </trkpt>
+      <trkpt lat="48.411967" lon="9.785521">
+        <ele>511.1</ele>
+      </trkpt>
+      <trkpt lat="48.411931" lon="9.785492">
+        <ele>511.1</ele>
+      </trkpt>
+      <trkpt lat="48.411905" lon="9.785407">
+        <ele>511.1</ele>
+      </trkpt>
+      <trkpt lat="48.411891" lon="9.785355">
+        <ele>511.2</ele>
+      </trkpt>
+      <trkpt lat="48.411843" lon="9.785337">
+        <ele>511.2</ele>
+      </trkpt>
+      <trkpt lat="48.411879" lon="9.785041">
+        <ele>511.4</ele>
+      </trkpt>
+      <trkpt lat="48.411888" lon="9.784855">
+        <ele>511.6</ele>
+      </trkpt>
+      <trkpt lat="48.411878" lon="9.78468">
+        <ele>511.7</ele>
+      </trkpt>
+      <trkpt lat="48.411798" lon="9.784713">
+        <ele>511.7</ele>
+        <name>Karlstraße, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.411645" lon="9.784778">
+        <ele>511.7</ele>
+      </trkpt>
+      <trkpt lat="48.411456" lon="9.784918">
+        <ele>511.7</ele>
+      </trkpt>
+      <trkpt lat="48.411362" lon="9.784985">
+        <ele>511.7</ele>
+      </trkpt>
+      <trkpt lat="48.411093" lon="9.785165">
+        <ele>511.7</ele>
+      </trkpt>
+      <trkpt lat="48.411037" lon="9.785195">
+        <ele>511.7</ele>
+      </trkpt>
+      <trkpt lat="48.410985" lon="9.785221">
+        <ele>511.7</ele>
+      </trkpt>
+      <trkpt lat="48.410959" lon="9.785237">
+        <ele>511.7</ele>
+      </trkpt>
+      <trkpt lat="48.410826" lon="9.78532">
+        <ele>511.7</ele>
+      </trkpt>
+      <trkpt lat="48.410764" lon="9.785356">
+        <ele>511.7</ele>
+      </trkpt>
+      <trkpt lat="48.410551" lon="9.78548">
+        <ele>511.7</ele>
+      </trkpt>
+      <trkpt lat="48.410279" lon="9.785636">
+        <ele>511.9</ele>
+      </trkpt>
+      <trkpt lat="48.410222" lon="9.785669">
+        <ele>511.9</ele>
+      </trkpt>
+      <trkpt lat="48.41014" lon="9.785722">
+        <ele>512.0</ele>
+      </trkpt>
+      <trkpt lat="48.410113" lon="9.785739">
+        <ele>512.0</ele>
+      </trkpt>
+      <trkpt lat="48.410047" lon="9.78578">
+        <ele>512.1</ele>
+      </trkpt>
+      <trkpt lat="48.409948" lon="9.785855">
+        <ele>512.2</ele>
+      </trkpt>
+      <trkpt lat="48.409832" lon="9.785958">
+        <ele>512.4</ele>
+      </trkpt>
+      <trkpt lat="48.409783" lon="9.786003">
+        <ele>512.4</ele>
+        <name>Karlstraße, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.409692" lon="9.786087">
+        <ele>512.5</ele>
+      </trkpt>
+      <trkpt lat="48.40953" lon="9.78572">
+        <ele>512.3</ele>
+      </trkpt>
+      <trkpt lat="48.409485" lon="9.785605">
+        <ele>512.3</ele>
+      </trkpt>
+      <trkpt lat="48.409392" lon="9.785271">
+        <ele>512.4</ele>
+      </trkpt>
+      <trkpt lat="48.4093" lon="9.784939">
+        <ele>512.5</ele>
+      </trkpt>
+      <trkpt lat="48.409208" lon="9.784606">
+        <ele>512.6</ele>
+      </trkpt>
+      <trkpt lat="48.409041" lon="9.78467">
+        <ele>512.5</ele>
+        <name>Weilerstraße, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.409011" lon="9.784682">
+        <ele>512.5</ele>
+      </trkpt>
+      <trkpt lat="48.40885" lon="9.784764">
+        <ele>512.5</ele>
+      </trkpt>
+      <trkpt lat="48.40858" lon="9.785011">
+        <ele>512.6</ele>
+      </trkpt>
+      <trkpt lat="48.408465" lon="9.785135">
+        <ele>512.7</ele>
+      </trkpt>
+      <trkpt lat="48.408266" lon="9.78536">
+        <ele>513.1</ele>
+      </trkpt>
+      <trkpt lat="48.408192" lon="9.785451">
+        <ele>513.3</ele>
+      </trkpt>
+      <trkpt lat="48.407958" lon="9.785754">
+        <ele>513.8</ele>
+      </trkpt>
+      <trkpt lat="48.407812" lon="9.785928">
+        <ele>514.3</ele>
+      </trkpt>
+      <trkpt lat="48.407657" lon="9.786113">
+        <ele>514.7</ele>
+      </trkpt>
+      <trkpt lat="48.407644" lon="9.786129">
+        <ele>514.7</ele>
+      </trkpt>
+      <trkpt lat="48.40758" lon="9.786205">
+        <ele>514.9</ele>
+        <name>Weilerstraße, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.407515" lon="9.786283">
+        <ele>515.1</ele>
+      </trkpt>
+      <trkpt lat="48.407379" lon="9.786347">
+        <ele>516.0</ele>
+      </trkpt>
+      <trkpt lat="48.407263" lon="9.786426">
+        <ele>516.7</ele>
+      </trkpt>
+      <trkpt lat="48.40706" lon="9.786509">
+        <ele>518.6</ele>
+      </trkpt>
+      <trkpt lat="48.406852" lon="9.78676">
+        <ele>520.1</ele>
+      </trkpt>
+      <trkpt lat="48.406645" lon="9.787011">
+        <ele>522.2</ele>
+      </trkpt>
+      <trkpt lat="48.40628" lon="9.787327">
+        <ele>526.6</ele>
+      </trkpt>
+      <trkpt lat="48.405915" lon="9.787643">
+        <ele>528.7</ele>
+      </trkpt>
+      <trkpt lat="48.405758" lon="9.787708">
+        <ele>530.0</ele>
+      </trkpt>
+      <trkpt lat="48.405643" lon="9.787749">
+        <ele>530.7</ele>
+      </trkpt>
+      <trkpt lat="48.405605" lon="9.787759">
+        <ele>530.8</ele>
+        <name>Reichlensbergweg, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.405544" lon="9.787775">
+        <ele>531.1</ele>
+      </trkpt>
+      <trkpt lat="48.405424" lon="9.787785">
+        <ele>531.7</ele>
+      </trkpt>
+      <trkpt lat="48.405332" lon="9.787792">
+        <ele>532.0</ele>
+      </trkpt>
+      <trkpt lat="48.405245" lon="9.787756">
+        <ele>532.7</ele>
+      </trkpt>
+      <trkpt lat="48.405225" lon="9.787728">
+        <ele>533.0</ele>
+      </trkpt>
+      <trkpt lat="48.405154" lon="9.787651">
+        <ele>534.1</ele>
+      </trkpt>
+      <trkpt lat="48.405083" lon="9.787581">
+        <ele>534.9</ele>
+      </trkpt>
+      <trkpt lat="48.405008" lon="9.787505">
+        <ele>535.8</ele>
+      </trkpt>
+      <trkpt lat="48.40477" lon="9.787266">
+        <ele>537.8</ele>
+        <name>Reichlensbergweg, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.404715" lon="9.787211">
+        <ele>538.3</ele>
+      </trkpt>
+      <trkpt lat="48.404412" lon="9.786844">
+        <ele>539.8</ele>
+      </trkpt>
+      <trkpt lat="48.404307" lon="9.786715">
+        <ele>539.6</ele>
+      </trkpt>
+      <trkpt lat="48.40427" lon="9.78672">
+        <ele>538.6</ele>
+      </trkpt>
+      <trkpt lat="48.404238" lon="9.786658">
+        <ele>538.6</ele>
+      </trkpt>
+      <trkpt lat="48.404178" lon="9.786572">
+        <ele>537.6</ele>
+      </trkpt>
+      <trkpt lat="48.404119" lon="9.78648">
+        <ele>536.4</ele>
+      </trkpt>
+      <trkpt lat="48.404086" lon="9.78636">
+        <ele>536.3</ele>
+      </trkpt>
+      <trkpt lat="48.404084" lon="9.786345">
+        <ele>536.3</ele>
+        <name>Matthäus-Hipp-Weg, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>17</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.40405" lon="9.786154">
+        <ele>536.8</ele>
+      </trkpt>
+      <trkpt lat="48.40403" lon="9.785998">
+        <ele>536.9</ele>
+      </trkpt>
+      <trkpt lat="48.404013" lon="9.785874">
+        <ele>536.4</ele>
+      </trkpt>
+      <trkpt lat="48.404002" lon="9.785737">
+        <ele>535.7</ele>
+      </trkpt>
+      <trkpt lat="48.404017" lon="9.785554">
+        <ele>536.4</ele>
+      </trkpt>
+      <trkpt lat="48.404021" lon="9.785403">
+        <ele>536.8</ele>
+      </trkpt>
+      <trkpt lat="48.404003" lon="9.785345">
+        <ele>536.0</ele>
+      </trkpt>
+      <trkpt lat="48.403987" lon="9.785219">
+        <ele>536.0</ele>
+      </trkpt>
+      <trkpt lat="48.403931" lon="9.784965">
+        <ele>535.5</ele>
+      </trkpt>
+      <trkpt lat="48.403866" lon="9.784579">
+        <ele>536.2</ele>
+      </trkpt>
+      <trkpt lat="48.403807" lon="9.78413">
+        <ele>537.9</ele>
+      </trkpt>
+      <trkpt lat="48.403791" lon="9.783904">
+        <ele>539.2</ele>
+      </trkpt>
+      <trkpt lat="48.403792" lon="9.783783">
+        <ele>540.3</ele>
+      </trkpt>
+      <trkpt lat="48.403779" lon="9.783637">
+        <ele>540.9</ele>
+      </trkpt>
+      <trkpt lat="48.403777" lon="9.783518">
+        <ele>541.7</ele>
+      </trkpt>
+      <trkpt lat="48.403784" lon="9.783192">
+        <ele>543.8</ele>
+      </trkpt>
+      <trkpt lat="48.403798" lon="9.782714">
+        <ele>545.8</ele>
+      </trkpt>
+      <trkpt lat="48.40378" lon="9.78233">
+        <ele>545.3</ele>
+      </trkpt>
+      <trkpt lat="48.403784" lon="9.782275">
+        <ele>545.4</ele>
+        <name>Württemberger Straße, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>17</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.403805" lon="9.781914">
+        <ele>546.5</ele>
+      </trkpt>
+      <trkpt lat="48.40383" lon="9.781497">
+        <ele>547.0</ele>
+      </trkpt>
+      <trkpt lat="48.40386" lon="9.781119">
+        <ele>546.8</ele>
+      </trkpt>
+      <trkpt lat="48.403964" lon="9.78078">
+        <ele>550.1</ele>
+      </trkpt>
+      <trkpt lat="48.404024" lon="9.780156">
+        <ele>548.0</ele>
+      </trkpt>
+      <trkpt lat="48.404037" lon="9.779946">
+        <ele>546.6</ele>
+      </trkpt>
+      <trkpt lat="48.404071" lon="9.779707">
+        <ele>546.0</ele>
+      </trkpt>
+      <trkpt lat="48.404162" lon="9.779367">
+        <ele>547.4</ele>
+      </trkpt>
+      <trkpt lat="48.404155" lon="9.779236">
+        <ele>545.4</ele>
+      </trkpt>
+      <trkpt lat="48.404289" lon="9.778876">
+        <ele>548.8</ele>
+      </trkpt>
+      <trkpt lat="48.404423" lon="9.778516">
+        <ele>551.6</ele>
+      </trkpt>
+      <trkpt lat="48.404595" lon="9.778311">
+        <ele>558.3</ele>
+      </trkpt>
+      <trkpt lat="48.404812" lon="9.777901">
+        <ele>563.6</ele>
+      </trkpt>
+      <trkpt lat="48.404894" lon="9.777803">
+        <ele>566.5</ele>
+      </trkpt>
+      <trkpt lat="48.404968" lon="9.777685">
+        <ele>568.8</ele>
+      </trkpt>
+      <trkpt lat="48.405125" lon="9.777469">
+        <ele>574.3</ele>
+      </trkpt>
+      <trkpt lat="48.405105" lon="9.777889">
+        <ele>580.9</ele>
+      </trkpt>
+      <trkpt lat="48.405069" lon="9.778032">
+        <ele>581.4</ele>
+      </trkpt>
+      <trkpt lat="48.405046" lon="9.778209">
+        <ele>583.4</ele>
+      </trkpt>
+      <trkpt lat="48.405171" lon="9.778092">
+        <ele>589.0</ele>
+      </trkpt>
+      <trkpt lat="48.405228" lon="9.778224">
+        <ele>595.1</ele>
+      </trkpt>
+      <trkpt lat="48.405287" lon="9.778165">
+        <ele>597.7</ele>
+      </trkpt>
+      <trkpt lat="48.405339" lon="9.778">
+        <ele>597.9</ele>
+      </trkpt>
+      <trkpt lat="48.405354" lon="9.777942">
+        <ele>597.8</ele>
+        <name>Felsenlabyrinth, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>17</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.405339" lon="9.778">
+        <ele>597.9</ele>
+      </trkpt>
+      <trkpt lat="48.405287" lon="9.778165">
+        <ele>597.7</ele>
+      </trkpt>
+      <trkpt lat="48.405228" lon="9.778224">
+        <ele>595.1</ele>
+      </trkpt>
+      <trkpt lat="48.405171" lon="9.778092">
+        <ele>589.0</ele>
+      </trkpt>
+      <trkpt lat="48.405046" lon="9.778209">
+        <ele>583.4</ele>
+      </trkpt>
+      <trkpt lat="48.405069" lon="9.778032">
+        <ele>581.4</ele>
+      </trkpt>
+      <trkpt lat="48.405105" lon="9.777889">
+        <ele>580.9</ele>
+      </trkpt>
+      <trkpt lat="48.405125" lon="9.777469">
+        <ele>574.3</ele>
+      </trkpt>
+      <trkpt lat="48.405379" lon="9.776944">
+        <ele>579.9</ele>
+      </trkpt>
+      <trkpt lat="48.405551" lon="9.776652">
+        <ele>584.3</ele>
+      </trkpt>
+      <trkpt lat="48.405723" lon="9.77636">
+        <ele>588.2</ele>
+      </trkpt>
+      <trkpt lat="48.405874" lon="9.776052">
+        <ele>590.2</ele>
+      </trkpt>
+      <trkpt lat="48.405949" lon="9.775898">
+        <ele>591.2</ele>
+      </trkpt>
+      <trkpt lat="48.406071" lon="9.775694">
+        <ele>594.0</ele>
+      </trkpt>
+      <trkpt lat="48.406205" lon="9.775562">
+        <ele>599.2</ele>
+      </trkpt>
+      <trkpt lat="48.406401" lon="9.775339">
+        <ele>606.4</ele>
+      </trkpt>
+      <trkpt lat="48.406459" lon="9.775065">
+        <ele>604.4</ele>
+        <name>Küssende Sau, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>17</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.406515" lon="9.7748">
+        <ele>602.6</ele>
+      </trkpt>
+      <trkpt lat="48.406659" lon="9.774482">
+        <ele>605.7</ele>
+      </trkpt>
+      <trkpt lat="48.406803" lon="9.774164">
+        <ele>609.1</ele>
+      </trkpt>
+      <trkpt lat="48.406935" lon="9.774015">
+        <ele>614.5</ele>
+      </trkpt>
+      <trkpt lat="48.407236" lon="9.773896">
+        <ele>629.4</ele>
+      </trkpt>
+      <trkpt lat="48.407489" lon="9.773827">
+        <ele>640.8</ele>
+      </trkpt>
+      <trkpt lat="48.407568" lon="9.77376">
+        <ele>643.2</ele>
+      </trkpt>
+      <trkpt lat="48.407643" lon="9.773658">
+        <ele>644.8</ele>
+      </trkpt>
+      <trkpt lat="48.407752" lon="9.773474">
+        <ele>646.4</ele>
+      </trkpt>
+      <trkpt lat="48.407794" lon="9.773345">
+        <ele>646.0</ele>
+      </trkpt>
+      <trkpt lat="48.407828" lon="9.773274">
+        <ele>646.2</ele>
+      </trkpt>
+      <trkpt lat="48.407886" lon="9.773195">
+        <ele>647.3</ele>
+      </trkpt>
+      <trkpt lat="48.407966" lon="9.773099">
+        <ele>649.0</ele>
+      </trkpt>
+      <trkpt lat="48.408163" lon="9.772926">
+        <ele>654.1</ele>
+      </trkpt>
+      <trkpt lat="48.408345" lon="9.772708">
+        <ele>658.0</ele>
+      </trkpt>
+      <trkpt lat="48.408409" lon="9.772622">
+        <ele>659.3</ele>
+      </trkpt>
+      <trkpt lat="48.4086" lon="9.772311">
+        <ele>663.0</ele>
+      </trkpt>
+      <trkpt lat="48.408757" lon="9.772065">
+        <ele>666.6</ele>
+      </trkpt>
+      <trkpt lat="48.408914" lon="9.771819">
+        <ele>670.8</ele>
+      </trkpt>
+      <trkpt lat="48.409056" lon="9.771549">
+        <ele>675.2</ele>
+      </trkpt>
+      <trkpt lat="48.409198" lon="9.771279">
+        <ele>679.9</ele>
+      </trkpt>
+      <trkpt lat="48.409333" lon="9.770758">
+        <ele>684.5</ele>
+      </trkpt>
+      <trkpt lat="48.409375" lon="9.770393">
+        <ele>687.4</ele>
+      </trkpt>
+      <trkpt lat="48.409334" lon="9.770047">
+        <ele>689.1</ele>
+      </trkpt>
+      <trkpt lat="48.409316" lon="9.769828">
+        <ele>690.2</ele>
+      </trkpt>
+      <trkpt lat="48.409319" lon="9.769683">
+        <ele>690.9</ele>
+      </trkpt>
+      <trkpt lat="48.409216" lon="9.769583">
+        <ele>690.3</ele>
+      </trkpt>
+      <trkpt lat="48.409096" lon="9.76947">
+        <ele>689.3</ele>
+      </trkpt>
+      <trkpt lat="48.408952" lon="9.769207">
+        <ele>688.8</ele>
+      </trkpt>
+      <trkpt lat="48.408808" lon="9.768913">
+        <ele>688.1</ele>
+      </trkpt>
+      <trkpt lat="48.408618" lon="9.768531">
+        <ele>686.1</ele>
+      </trkpt>
+      <trkpt lat="48.40851" lon="9.768353">
+        <ele>684.0</ele>
+      </trkpt>
+      <trkpt lat="48.408467" lon="9.768316">
+        <ele>682.6</ele>
+      </trkpt>
+      <trkpt lat="48.408446" lon="9.76824">
+        <ele>682.7</ele>
+      </trkpt>
+      <trkpt lat="48.408413" lon="9.768239">
+        <ele>681.1</ele>
+      </trkpt>
+      <trkpt lat="48.408406" lon="9.768325">
+        <ele>679.5</ele>
+      </trkpt>
+      <trkpt lat="48.408411" lon="9.768396">
+        <ele>678.6</ele>
+      </trkpt>
+      <trkpt lat="48.408379" lon="9.768404">
+        <ele>676.7</ele>
+      </trkpt>
+      <trkpt lat="48.408325" lon="9.76834">
+        <ele>674.7</ele>
+      </trkpt>
+      <trkpt lat="48.40826" lon="9.768318">
+        <ele>671.1</ele>
+      </trkpt>
+      <trkpt lat="48.408223" lon="9.768379">
+        <ele>667.9</ele>
+      </trkpt>
+      <trkpt lat="48.408197" lon="9.768426">
+        <ele>665.6</ele>
+      </trkpt>
+      <trkpt lat="48.408175" lon="9.76845">
+        <ele>663.8</ele>
+      </trkpt>
+      <trkpt lat="48.40814" lon="9.768426">
+        <ele>662.0</ele>
+      </trkpt>
+      <trkpt lat="48.408126" lon="9.768403">
+        <ele>661.5</ele>
+      </trkpt>
+      <trkpt lat="48.408117" lon="9.768385">
+        <ele>661.2</ele>
+        <name>Weilerhalde, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>17</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.408126" lon="9.768403">
+        <ele>661.5</ele>
+      </trkpt>
+      <trkpt lat="48.40814" lon="9.768426">
+        <ele>662.0</ele>
+      </trkpt>
+      <trkpt lat="48.408175" lon="9.76845">
+        <ele>663.8</ele>
+      </trkpt>
+      <trkpt lat="48.408197" lon="9.768426">
+        <ele>665.6</ele>
+      </trkpt>
+      <trkpt lat="48.408223" lon="9.768379">
+        <ele>667.9</ele>
+      </trkpt>
+      <trkpt lat="48.40826" lon="9.768318">
+        <ele>671.1</ele>
+      </trkpt>
+      <trkpt lat="48.408325" lon="9.76834">
+        <ele>674.7</ele>
+      </trkpt>
+      <trkpt lat="48.408379" lon="9.768404">
+        <ele>676.7</ele>
+      </trkpt>
+      <trkpt lat="48.408411" lon="9.768396">
+        <ele>678.6</ele>
+      </trkpt>
+      <trkpt lat="48.408406" lon="9.768325">
+        <ele>679.5</ele>
+      </trkpt>
+      <trkpt lat="48.408413" lon="9.768239">
+        <ele>681.1</ele>
+      </trkpt>
+      <trkpt lat="48.408446" lon="9.76824">
+        <ele>682.7</ele>
+      </trkpt>
+      <trkpt lat="48.408467" lon="9.768316">
+        <ele>682.6</ele>
+      </trkpt>
+      <trkpt lat="48.40851" lon="9.768353">
+        <ele>684.0</ele>
+      </trkpt>
+      <trkpt lat="48.408618" lon="9.768531">
+        <ele>686.1</ele>
+      </trkpt>
+      <trkpt lat="48.408808" lon="9.768913">
+        <ele>688.1</ele>
+      </trkpt>
+      <trkpt lat="48.408952" lon="9.769207">
+        <ele>688.8</ele>
+      </trkpt>
+      <trkpt lat="48.409096" lon="9.76947">
+        <ele>689.3</ele>
+      </trkpt>
+      <trkpt lat="48.409216" lon="9.769583">
+        <ele>690.3</ele>
+      </trkpt>
+      <trkpt lat="48.409319" lon="9.769683">
+        <ele>690.9</ele>
+      </trkpt>
+      <trkpt lat="48.409316" lon="9.769828">
+        <ele>690.2</ele>
+      </trkpt>
+      <trkpt lat="48.409386" lon="9.769881">
+        <ele>690.7</ele>
+      </trkpt>
+      <trkpt lat="48.4095" lon="9.770473">
+        <ele>689.3</ele>
+      </trkpt>
+      <trkpt lat="48.409613" lon="9.771064">
+        <ele>690.5</ele>
+      </trkpt>
+      <trkpt lat="48.409495" lon="9.771578">
+        <ele>688.9</ele>
+      </trkpt>
+      <trkpt lat="48.409435" lon="9.771848">
+        <ele>688.2</ele>
+      </trkpt>
+      <trkpt lat="48.409442" lon="9.772098">
+        <ele>688.5</ele>
+      </trkpt>
+      <trkpt lat="48.409266" lon="9.772271">
+        <ele>685.2</ele>
+      </trkpt>
+      <trkpt lat="48.409116" lon="9.772771">
+        <ele>684.2</ele>
+      </trkpt>
+      <trkpt lat="48.408967" lon="9.77327">
+        <ele>682.8</ele>
+      </trkpt>
+      <trkpt lat="48.408817" lon="9.77377">
+        <ele>681.3</ele>
+      </trkpt>
+      <trkpt lat="48.409038" lon="9.77398">
+        <ele>684.3</ele>
+      </trkpt>
+      <trkpt lat="48.409259" lon="9.77419">
+        <ele>686.6</ele>
+      </trkpt>
+      <trkpt lat="48.409567" lon="9.774471">
+        <ele>689.1</ele>
+      </trkpt>
+      <trkpt lat="48.409876" lon="9.774753">
+        <ele>690.8</ele>
+      </trkpt>
+      <trkpt lat="48.409654" lon="9.775269">
+        <ele>689.3</ele>
+      </trkpt>
+      <trkpt lat="48.409432" lon="9.775786">
+        <ele>687.4</ele>
+      </trkpt>
+      <trkpt lat="48.40921" lon="9.776302">
+        <ele>685.4</ele>
+      </trkpt>
+      <trkpt lat="48.408987" lon="9.776819">
+        <ele>683.3</ele>
+      </trkpt>
+      <trkpt lat="48.408765" lon="9.777335">
+        <ele>681.3</ele>
+      </trkpt>
+      <trkpt lat="48.408543" lon="9.777852">
+        <ele>679.6</ele>
+      </trkpt>
+      <trkpt lat="48.408321" lon="9.778368">
+        <ele>678.3</ele>
+      </trkpt>
+      <trkpt lat="48.40841" lon="9.778575">
+        <ele>679.4</ele>
+      </trkpt>
+      <trkpt lat="48.408513" lon="9.778903">
+        <ele>680.5</ele>
+      </trkpt>
+      <trkpt lat="48.408616" lon="9.779231">
+        <ele>680.8</ele>
+      </trkpt>
+      <trkpt lat="48.408462" lon="9.779753">
+        <ele>675.8</ele>
+      </trkpt>
+      <trkpt lat="48.408309" lon="9.780274">
+        <ele>659.0</ele>
+      </trkpt>
+      <trkpt lat="48.408211" lon="9.780364">
+        <ele>655.6</ele>
+      </trkpt>
+      <trkpt lat="48.408058" lon="9.78053">
+        <ele>649.3</ele>
+      </trkpt>
+      <trkpt lat="48.407803" lon="9.780442">
+        <ele>652.0</ele>
+      </trkpt>
+      <trkpt lat="48.407548" lon="9.780354">
+        <ele>653.8</ele>
+      </trkpt>
+      <trkpt lat="48.40762" lon="9.780856">
+        <ele>640.2</ele>
+      </trkpt>
+      <trkpt lat="48.407693" lon="9.781357">
+        <ele>634.2</ele>
+      </trkpt>
+      <trkpt lat="48.407618" lon="9.781719">
+        <ele>630.7</ele>
+      </trkpt>
+      <trkpt lat="48.407544" lon="9.782081">
+        <ele>625.8</ele>
+      </trkpt>
+      <trkpt lat="48.407484" lon="9.782747">
+        <ele>616.2</ele>
+      </trkpt>
+      <trkpt lat="48.407707" lon="9.782349">
+        <ele>616.5</ele>
+      </trkpt>
+      <trkpt lat="48.407907" lon="9.782142">
+        <ele>613.8</ele>
+      </trkpt>
+      <trkpt lat="48.408139" lon="9.782014">
+        <ele>608.8</ele>
+      </trkpt>
+      <trkpt lat="48.408391" lon="9.781788">
+        <ele>607.7</ele>
+      </trkpt>
+      <trkpt lat="48.408643" lon="9.781561">
+        <ele>608.3</ele>
+      </trkpt>
+      <trkpt lat="48.408729" lon="9.781539">
+        <ele>606.6</ele>
+        <name>Weilerstraße, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>17</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.408946" lon="9.781485">
+        <ele>602.4</ele>
+      </trkpt>
+      <trkpt lat="48.40925" lon="9.781409">
+        <ele>596.3</ele>
+      </trkpt>
+      <trkpt lat="48.4095" lon="9.781302">
+        <ele>592.8</ele>
+      </trkpt>
+      <trkpt lat="48.409751" lon="9.781194">
+        <ele>589.3</ele>
+      </trkpt>
+      <trkpt lat="48.410129" lon="9.781067">
+        <ele>582.1</ele>
+      </trkpt>
+      <trkpt lat="48.41045" lon="9.780967">
+        <ele>575.2</ele>
+      </trkpt>
+      <trkpt lat="48.41077" lon="9.780868">
+        <ele>568.5</ele>
+      </trkpt>
+      <trkpt lat="48.410786" lon="9.780894">
+        <ele>567.3</ele>
+      </trkpt>
+      <trkpt lat="48.410745" lon="9.781115">
+        <ele>561.5</ele>
+      </trkpt>
+      <trkpt lat="48.410754" lon="9.78114">
+        <ele>560.4</ele>
+      </trkpt>
+      <trkpt lat="48.411045" lon="9.78094">
+        <ele>558.7</ele>
+      </trkpt>
+      <trkpt lat="48.411065" lon="9.780962">
+        <ele>557.6</ele>
+      </trkpt>
+      <trkpt lat="48.410989" lon="9.78113">
+        <ele>555.0</ele>
+      </trkpt>
+      <trkpt lat="48.410927" lon="9.781255">
+        <ele>552.8</ele>
+      </trkpt>
+      <trkpt lat="48.410979" lon="9.781284">
+        <ele>550.9</ele>
+      </trkpt>
+      <trkpt lat="48.411031" lon="9.781259">
+        <ele>550.6</ele>
+      </trkpt>
+      <trkpt lat="48.411076" lon="9.781216">
+        <ele>550.9</ele>
+      </trkpt>
+      <trkpt lat="48.411131" lon="9.781075">
+        <ele>553.6</ele>
+      </trkpt>
+      <trkpt lat="48.411235" lon="9.781074">
+        <ele>552.1</ele>
+      </trkpt>
+      <trkpt lat="48.411305" lon="9.781225">
+        <ele>546.0</ele>
+      </trkpt>
+      <trkpt lat="48.41137" lon="9.781363">
+        <ele>541.2</ele>
+      </trkpt>
+      <trkpt lat="48.411348" lon="9.781444">
+        <ele>539.8</ele>
+      </trkpt>
+      <trkpt lat="48.411215" lon="9.781598">
+        <ele>538.7</ele>
+      </trkpt>
+      <trkpt lat="48.41125" lon="9.781643">
+        <ele>537.3</ele>
+      </trkpt>
+      <trkpt lat="48.411313" lon="9.781578">
+        <ele>537.7</ele>
+      </trkpt>
+      <trkpt lat="48.411405" lon="9.781504">
+        <ele>537.7</ele>
+      </trkpt>
+      <trkpt lat="48.411519" lon="9.781686">
+        <ele>533.1</ele>
+      </trkpt>
+      <trkpt lat="48.411655" lon="9.781936">
+        <ele>527.3</ele>
+      </trkpt>
+      <trkpt lat="48.411771" lon="9.782192">
+        <ele>523.1</ele>
+      </trkpt>
+      <trkpt lat="48.411852" lon="9.782132">
+        <ele>523.3</ele>
+      </trkpt>
+      <trkpt lat="48.412064" lon="9.782638">
+        <ele>518.9</ele>
+      </trkpt>
+      <trkpt lat="48.412187" lon="9.782479">
+        <ele>519.3</ele>
+      </trkpt>
+      <trkpt lat="48.412239" lon="9.782781">
+        <ele>517.6</ele>
+      </trkpt>
+      <trkpt lat="48.412253" lon="9.782828">
+        <ele>517.3</ele>
+      </trkpt>
+      <trkpt lat="48.412294" lon="9.783042">
+        <ele>516.3</ele>
+      </trkpt>
+      <trkpt lat="48.4123" lon="9.783077">
+        <ele>516.1</ele>
+      </trkpt>
+      <trkpt lat="48.412334" lon="9.783273">
+        <ele>515.2</ele>
+      </trkpt>
+      <trkpt lat="48.412334" lon="9.783276">
+        <ele>515.2</ele>
+        <name>Ziegelgasse, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>17</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.412373" lon="9.7835">
+        <ele>514.5</ele>
+      </trkpt>
+      <trkpt lat="48.412446" lon="9.783916">
+        <ele>514.0</ele>
+      </trkpt>
+      <trkpt lat="48.412801" lon="9.783785">
+        <ele>513.9</ele>
+      </trkpt>
+      <trkpt lat="48.412836" lon="9.784057">
+        <ele>513.8</ele>
+      </trkpt>
+      <trkpt lat="48.412988" lon="9.783926">
+        <ele>513.5</ele>
+      </trkpt>
+      <trkpt lat="48.413077" lon="9.783862">
+        <ele>513.3</ele>
+        <name>Klosterstraße, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>17</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.413183" lon="9.783787">
+        <ele>513.2</ele>
+      </trkpt>
+      <trkpt lat="48.413209" lon="9.783771">
+        <ele>513.2</ele>
+      </trkpt>
+      <trkpt lat="48.413473" lon="9.783616">
+        <ele>513.2</ele>
+      </trkpt>
+      <trkpt lat="48.413551" lon="9.783573">
+        <ele>513.2</ele>
+      </trkpt>
+      <trkpt lat="48.413684" lon="9.783498">
+        <ele>513.5</ele>
+      </trkpt>
+      <trkpt lat="48.41369" lon="9.783495">
+        <ele>513.5</ele>
+        <name>Klosterstraße, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>17</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.41373" lon="9.783473">
+        <ele>513.6</ele>
+      </trkpt>
+      <trkpt lat="48.413955" lon="9.783385">
+        <ele>514.2</ele>
+      </trkpt>
+      <trkpt lat="48.414055" lon="9.783347">
+        <ele>514.6</ele>
+      </trkpt>
+      <trkpt lat="48.414181" lon="9.783293">
+        <ele>515.3</ele>
+      </trkpt>
+      <trkpt lat="48.414291" lon="9.783253">
+        <ele>516.0</ele>
+      </trkpt>
+      <trkpt lat="48.414376" lon="9.783206">
+        <ele>516.9</ele>
+      </trkpt>
+      <trkpt lat="48.414458" lon="9.783114">
+        <ele>518.1</ele>
+      </trkpt>
+      <trkpt lat="48.414569" lon="9.783206">
+        <ele>517.5</ele>
+      </trkpt>
+      <trkpt lat="48.414805" lon="9.783427">
+        <ele>516.0</ele>
+      </trkpt>
+      <trkpt lat="48.415204" lon="9.783718">
+        <ele>514.5</ele>
+      </trkpt>
+      <trkpt lat="48.415387" lon="9.783766">
+        <ele>514.5</ele>
+      </trkpt>
+      <trkpt lat="48.415609" lon="9.783806">
+        <ele>515.1</ele>
+      </trkpt>
+      <trkpt lat="48.415683" lon="9.783837">
+        <ele>515.2</ele>
+      </trkpt>
+      <trkpt lat="48.415702" lon="9.783853">
+        <ele>515.1</ele>
+      </trkpt>
+      <trkpt lat="48.415789" lon="9.783778">
+        <ele>518.5</ele>
+      </trkpt>
+      <trkpt lat="48.415843" lon="9.783741">
+        <ele>520.5</ele>
+      </trkpt>
+      <trkpt lat="48.416001" lon="9.783663">
+        <ele>526.3</ele>
+      </trkpt>
+      <trkpt lat="48.415999" lon="9.783654">
+        <ele>526.3</ele>
+        <name>Blautopfstraße, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>17</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.41605" lon="9.783626">
+        <ele>528.2</ele>
+      </trkpt>
+      <trkpt lat="48.416129" lon="9.783576">
+        <ele>531.5</ele>
+      </trkpt>
+      <trkpt lat="48.416198" lon="9.783534">
+        <ele>534.7</ele>
+      </trkpt>
+      <trkpt lat="48.416342" lon="9.783396">
+        <ele>542.7</ele>
+      </trkpt>
+      <trkpt lat="48.416377" lon="9.783377">
+        <ele>544.3</ele>
+        <name>Die schöne Lau, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>17</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.416421" lon="9.783355">
+        <ele>546.4</ele>
+      </trkpt>
+      <trkpt lat="48.416495" lon="9.783406">
+        <ele>548.3</ele>
+      </trkpt>
+      <trkpt lat="48.416523" lon="9.783595">
+        <ele>546.5</ele>
+      </trkpt>
+      <trkpt lat="48.416515" lon="9.783786">
+        <ele>543.9</ele>
+      </trkpt>
+      <trkpt lat="48.416497" lon="9.783904">
+        <ele>542.1</ele>
+      </trkpt>
+      <trkpt lat="48.416416" lon="9.784045">
+        <ele>537.3</ele>
+      </trkpt>
+      <trkpt lat="48.416263" lon="9.784185">
+        <ele>529.2</ele>
+      </trkpt>
+      <trkpt lat="48.416202" lon="9.784249">
+        <ele>525.9</ele>
+      </trkpt>
+      <trkpt lat="48.416138" lon="9.784303">
+        <ele>522.7</ele>
+      </trkpt>
+      <trkpt lat="48.416113" lon="9.784383">
+        <ele>521.3</ele>
+      </trkpt>
+      <trkpt lat="48.416128" lon="9.784402">
+        <ele>521.9</ele>
+      </trkpt>
+      <trkpt lat="48.416203" lon="9.784441">
+        <ele>525.4</ele>
+      </trkpt>
+      <trkpt lat="48.41626" lon="9.784512">
+        <ele>528.1</ele>
+      </trkpt>
+      <trkpt lat="48.416293" lon="9.784635">
+        <ele>529.8</ele>
+      </trkpt>
+      <trkpt lat="48.416309" lon="9.784757">
+        <ele>530.7</ele>
+      </trkpt>
+      <trkpt lat="48.416312" lon="9.784932">
+        <ele>531.1</ele>
+      </trkpt>
+      <trkpt lat="48.416298" lon="9.78504">
+        <ele>530.5</ele>
+      </trkpt>
+      <trkpt lat="48.416265" lon="9.785158">
+        <ele>528.8</ele>
+      </trkpt>
+      <trkpt lat="48.416246" lon="9.785187">
+        <ele>527.8</ele>
+        <name>48.416249,9.785192</name>
+        <extensions>
+          <oa:mapZoom>17</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.416175" lon="9.785293">
+        <ele>523.8</ele>
+      </trkpt>
+      <trkpt lat="48.416139" lon="9.785325">
+        <ele>521.7</ele>
+      </trkpt>
+      <trkpt lat="48.416095" lon="9.785331">
+        <ele>519.2</ele>
+      </trkpt>
+      <trkpt lat="48.416075" lon="9.785302">
+        <ele>518.2</ele>
+      </trkpt>
+      <trkpt lat="48.416054" lon="9.78527">
+        <ele>517.1</ele>
+      </trkpt>
+      <trkpt lat="48.415987" lon="9.785327">
+        <ele>514.0</ele>
+      </trkpt>
+      <trkpt lat="48.415976" lon="9.785324">
+        <ele>513.6</ele>
+      </trkpt>
+      <trkpt lat="48.415894" lon="9.78531">
+        <ele>511.0</ele>
+        <name>Mühlweg, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>17</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.41584" lon="9.785298">
+        <ele>510.0</ele>
+      </trkpt>
+      <trkpt lat="48.415828" lon="9.785192">
+        <ele>509.9</ele>
+      </trkpt>
+      <trkpt lat="48.415814" lon="9.785019">
+        <ele>509.9</ele>
+        <name>Mühlweg, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.415802" lon="9.784885">
+        <ele>510.0</ele>
+      </trkpt>
+      <trkpt lat="48.415791" lon="9.784252">
+        <ele>511.0</ele>
+      </trkpt>
+      <trkpt lat="48.415777" lon="9.784038">
+        <ele>512.5</ele>
+      </trkpt>
+      <trkpt lat="48.415747" lon="9.783927">
+        <ele>514.0</ele>
+      </trkpt>
+      <trkpt lat="48.415702" lon="9.783853">
+        <ele>515.1</ele>
+      </trkpt>
+      <trkpt lat="48.415683" lon="9.783837">
+        <ele>515.2</ele>
+      </trkpt>
+      <trkpt lat="48.415609" lon="9.783806">
+        <ele>515.1</ele>
+      </trkpt>
+      <trkpt lat="48.415387" lon="9.783766">
+        <ele>514.5</ele>
+      </trkpt>
+      <trkpt lat="48.415204" lon="9.783718">
+        <ele>514.5</ele>
+      </trkpt>
+      <trkpt lat="48.414805" lon="9.783427">
+        <ele>516.0</ele>
+      </trkpt>
+      <trkpt lat="48.414788" lon="9.783504">
+        <ele>515.0</ele>
+      </trkpt>
+      <trkpt lat="48.414782" lon="9.783599">
+        <ele>514.1</ele>
+      </trkpt>
+      <trkpt lat="48.414782" lon="9.783749">
+        <ele>513.0</ele>
+      </trkpt>
+      <trkpt lat="48.414779" lon="9.783805">
+        <ele>512.7</ele>
+      </trkpt>
+      <trkpt lat="48.414768" lon="9.78411">
+        <ele>511.4</ele>
+      </trkpt>
+      <trkpt lat="48.41477" lon="9.784358">
+        <ele>511.1</ele>
+      </trkpt>
+      <trkpt lat="48.414765" lon="9.7848">
+        <ele>510.8</ele>
+      </trkpt>
+      <trkpt lat="48.414761" lon="9.785082">
+        <ele>510.6</ele>
+      </trkpt>
+      <trkpt lat="48.414726" lon="9.785134">
+        <ele>510.6</ele>
+        <name>Klosterhof, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.414675" lon="9.785209">
+        <ele>510.7</ele>
+      </trkpt>
+      <trkpt lat="48.414562" lon="9.785199">
+        <ele>510.8</ele>
+      </trkpt>
+      <trkpt lat="48.414312" lon="9.785187">
+        <ele>511.3</ele>
+      </trkpt>
+      <trkpt lat="48.414147" lon="9.785192">
+        <ele>511.6</ele>
+      </trkpt>
+      <trkpt lat="48.414046" lon="9.785198">
+        <ele>511.8</ele>
+      </trkpt>
+      <trkpt lat="48.414039" lon="9.785354">
+        <ele>511.5</ele>
+      </trkpt>
+      <trkpt lat="48.413925" lon="9.7854">
+        <ele>511.5</ele>
+      </trkpt>
+      <trkpt lat="48.413873" lon="9.785473">
+        <ele>511.4</ele>
+      </trkpt>
+      <trkpt lat="48.413833" lon="9.785419">
+        <ele>511.5</ele>
+      </trkpt>
+      <trkpt lat="48.413795" lon="9.785397">
+        <ele>511.6</ele>
+      </trkpt>
+      <trkpt lat="48.413745" lon="9.785386">
+        <ele>511.6</ele>
+      </trkpt>
+      <trkpt lat="48.413713" lon="9.785397">
+        <ele>511.6</ele>
+        <name>Mauergasse, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.413679" lon="9.785409">
+        <ele>511.6</ele>
+      </trkpt>
+      <trkpt lat="48.413632" lon="9.785441">
+        <ele>511.6</ele>
+      </trkpt>
+      <trkpt lat="48.41358" lon="9.785527">
+        <ele>511.5</ele>
+      </trkpt>
+      <trkpt lat="48.413547" lon="9.785629">
+        <ele>511.3</ele>
+      </trkpt>
+      <trkpt lat="48.413525" lon="9.785724">
+        <ele>511.2</ele>
+      </trkpt>
+      <trkpt lat="48.413502" lon="9.785812">
+        <ele>511.1</ele>
+      </trkpt>
+      <trkpt lat="48.413472" lon="9.785849">
+        <ele>511.1</ele>
+      </trkpt>
+      <trkpt lat="48.413443" lon="9.785865">
+        <ele>511.1</ele>
+      </trkpt>
+      <trkpt lat="48.413324" lon="9.785864">
+        <ele>511.1</ele>
+      </trkpt>
+      <trkpt lat="48.413226" lon="9.785868">
+        <ele>511.1</ele>
+        <name>Auf dem Graben, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.413051" lon="9.785877">
+        <ele>511.2</ele>
+      </trkpt>
+      <trkpt lat="48.412864" lon="9.785863">
+        <ele>511.2</ele>
+      </trkpt>
+      <trkpt lat="48.412859" lon="9.785866">
+        <ele>511.2</ele>
+      </trkpt>
+      <trkpt lat="48.41285" lon="9.78594">
+        <ele>511.1</ele>
+      </trkpt>
+      <trkpt lat="48.412821" lon="9.786173">
+        <ele>510.9</ele>
+      </trkpt>
+      <trkpt lat="48.412861" lon="9.786183">
+        <ele>510.9</ele>
+      </trkpt>
+      <trkpt lat="48.412714" lon="9.786288">
+        <ele>510.7</ele>
+      </trkpt>
+      <trkpt lat="48.412542" lon="9.78623">
+        <ele>510.6</ele>
+        <name>Aachgasse, Blaubeuren</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

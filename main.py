@@ -1,4 +1,5 @@
 import folium
+import pandas as pd
 import streamlit as st
 from streamlit_folium import folium_static
 
@@ -49,7 +50,24 @@ for trip_id, (city_name, (lat, lon)) in locations_trip.items():
         )
     ).add_to(m)
 
-st.title("Ausflug")
-st.text("Karte")
+st.title("🏞️ Gemeinsamer Ausflug – Ideensammlung")
+st.markdown("""
+Willkommen zur Planung unseres kleinen Ausflugs zwischen **Wiesloch** und **Reutte**!  
+Jede*r kann Vorschläge einbringen: Städte, Wanderungen, Restaurants, Sehenswürdigkeiten...
+
+📲 Einfach per WhatsApp an **Mark** schicken – gerne mit Link oder kurzer Beschreibung.
+
+**Plappermaulpaul** hat sich bereits freiwillig als unser ehrenwerter Gruppenguide gemeldet.  
+Er verspricht, uns mit viel Fachwissen (und mindestens genauso viel Halbwissen) sicher durchs Tagesprogramm zu führen – auch fernab der römischen Geschichte.
+
+⬅️ In der linken Spalte unter Hikes, POIs und Restaurants findet ihr erste Programmvorschläge.
+            
+Sobald wir uns auf einen Ort geeinigt haben, kann’s an die Unterkunftsplanung gehen – vermutlich der kniffligste Teil des Ganzen.
+            
+---
+
+### 🗺️ Bisher vorgeschlagene Ziele
+""")
+
 folium_static(m)
 

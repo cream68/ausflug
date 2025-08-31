@@ -13,7 +13,7 @@ try:
     DEFAULT_RENDER_ARGS = dict(
         returned_objects=[],
         use_container_width=True,
-        height=520,   # reduced from 650 to avoid large whitespace
+        height=520,   # keep height modest to avoid big whitespace
     )
 except Exception:  # pragma: no cover
     from streamlit_folium import folium_static as _ST_RENDER  # type: ignore
@@ -22,12 +22,7 @@ except Exception:  # pragma: no cover
 
 
 def new_map(center: tuple[float, float], zoom: int = 10) -> folium.Map:
-    return folium.Map(
-        location=center,
-        zoom_start=zoom,
-        tiles="CartoDB Positron",
-        control_scale=True,
-    )
+    return folium.Map(location=center, zoom_start=zoom, tiles="CartoDB Positron", control_scale=True)
 
 
 def add_default_plugins(m: folium.Map) -> None:
@@ -80,7 +75,4 @@ def render_map(m: folium.Map, *, key: str, **kwargs) -> None:
         args.update(kwargs)
         _ST_RENDER(m, key=key, **args)
     else:
-        _ST_RENDER(
-            m,
-            height=kwargs.get("height", DEFAULT_RENDER_ARGS.get("height", 520)),
-        )
+        _ST_RENDER(m, height=kwargs.get("height", DEFAULT_RENDER_ARGS.get("height", 520)))

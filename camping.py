@@ -6,14 +6,9 @@ from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 
 # st_folium vs folium_static handling
-try:
-    from streamlit_folium import st_folium as _ST_RENDER
-    _USES_ST_FOLIUM = True
-    _RENDER_ARGS = dict(returned_objects=[], use_container_width=True, height=650)
-except Exception:
-    from streamlit_folium import folium_static as _ST_RENDER  # type: ignore
-    _USES_ST_FOLIUM = False
-    _RENDER_ARGS = dict(height=650)
+from streamlit_folium import st_folium as _st_render_map
+_USES_ST_FOLIUM = True
+_RENDER_ARGS = dict(returned_objects=[], use_container_width=True, height=650)
 
 from data import locations_trip, winner_id, camping, bakery, supermarkt
 
@@ -43,12 +38,6 @@ def popup_html(name: str, desc: str, gmap_url: str) -> str:
             <a href="{gmap_url}" target="_blank">📍 View on Google Maps</a>
         </div>
     """
-
-def _render_map(m: folium.Map, key: str) -> None:
-    if _USES_ST_FOLIUM:
-        _ST_RENDER(m, key=key, **_RENDER_ARGS)
-    else:
-        _ST_RENDER(m, **_RENDER_ARGS)  # folium_static has no key/support
 
 def render_camping(selected_trip_id: Optional[int] = None, *, key: Optional[str] = None) -> None:
     trip_id = selected_trip_id if selected_trip_id is not None else winner_id
@@ -141,4 +130,5 @@ def render_camping(selected_trip_id: Optional[int] = None, *, key: Optional[str]
     view_hash = abs(hash(bounds_tuple)) % 10_000_000  # short
     map_key = key or f"camping_map_{trip_id}_{view_hash}"
 
-    _render_map(m, map_key)
+    _st_render_map(m, key="start", **_RENDER_ARGS)
+

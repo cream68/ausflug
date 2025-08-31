@@ -10,15 +10,24 @@ from folium import plugins
 try:
     from streamlit_folium import st_folium as _ST_RENDER
     _USES_ST = True
-    DEFAULT_RENDER_ARGS = dict(returned_objects=[], use_container_width=True, height=650)
+    DEFAULT_RENDER_ARGS = dict(
+        returned_objects=[],
+        use_container_width=True,
+        height=520,   # reduced from 650 to avoid large whitespace
+    )
 except Exception:  # pragma: no cover
     from streamlit_folium import folium_static as _ST_RENDER  # type: ignore
     _USES_ST = False
-    DEFAULT_RENDER_ARGS = dict(height=650)
+    DEFAULT_RENDER_ARGS = dict(height=520)
 
 
 def new_map(center: tuple[float, float], zoom: int = 10) -> folium.Map:
-    return folium.Map(location=center, zoom_start=zoom, tiles="CartoDB Positron", control_scale=True)
+    return folium.Map(
+        location=center,
+        zoom_start=zoom,
+        tiles="CartoDB Positron",
+        control_scale=True,
+    )
 
 
 def add_default_plugins(m: folium.Map) -> None:
@@ -42,7 +51,9 @@ def fit_bounds(m: folium.Map, points: list[list[float]], max_zoom: int = 15) -> 
     m.fit_bounds(points, max_zoom=max_zoom)
 
 
-def force_fit_on_mount(m: folium.Map, points: list[list[float]], max_zoom: int = 15, padding_px: int = 24) -> None:
+def force_fit_on_mount(
+    m: folium.Map, points: list[list[float]], max_zoom: int = 15, padding_px: int = 24
+) -> None:
     """Fix Leaflet rendering when container was hidden: invalidateSize + fitBounds after mount."""
     if not points:
         return
@@ -69,4 +80,7 @@ def render_map(m: folium.Map, *, key: str, **kwargs) -> None:
         args.update(kwargs)
         _ST_RENDER(m, key=key, **args)
     else:
-        _ST_RENDER(m, height=kwargs.get("height", DEFAULT_RENDER_ARGS.get("height", 650)))
+        _ST_RENDER(
+            m,
+            height=kwargs.get("height", DEFAULT_RENDER_ARGS.get("height", 520)),
+        )

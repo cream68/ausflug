@@ -4,6 +4,37 @@ locations_trip = {
     3: ("Tübingen", (48.521637, 9.057645)),
 }
 
+winner_id = 1
+
+camping = [
+    {
+        "trip_id": 1,
+        "name": "Camping Schachenhorn",
+        "lat": 47.817797,
+        "lon": 9.038906,
+    }
+]
+
+bakery = [
+    {
+        "trip_id": 1,
+        "name": "Backhaus Mahl",
+        "address": "Hauptstraße 21, 78351 Bodman-Ludwigshafen",
+        "description": "ganz guter Bäcker",
+        "gmap_url": "https://maps.app.goo.gl/42UTs2h79aiMRnt28",
+    },
+]
+
+supermarkt = [
+    {
+        "trip_id": 1,
+        "name": "EDEKA Schreiber",
+        "address": "Überlinger Straße 11, 78351 Bodman-Ludwigshafen",
+        "description": "Edeka eben",
+        "gmap_url": "https://maps.app.goo.gl/1W2jrhjYNNN1GHkF7",
+    },
+]
+
 restaurants = [
     {
         "trip_id": 1,

@@ -46,6 +46,6 @@ def render_startpage() -> None:
     ).add_to(fg_dest)
     all_coords.append([lat, lon])
 
-    folium.LayerControl(collapsed=False).add_to(m)
+    #folium.LayerControl(collapsed=False).add_to(m)
     fit_bounds(m, all_coords, max_zoom=10)
     render_map(m, key="overview_start")

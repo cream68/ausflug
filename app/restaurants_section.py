@@ -105,7 +105,7 @@ def render_restaurants(selected_trip_id: Optional[int] = None, *, page_id: str =
             for n in failed:
                 st.write(f"- {n}")
 
-    folium.LayerControl(collapsed=False).add_to(m)
+    #folium.LayerControl(collapsed=False).add_to(m)
     fit_bounds(m, points, max_zoom=MAX_ZOOM)
     force_fit_on_mount(m, points, max_zoom=MAX_ZOOM)
 

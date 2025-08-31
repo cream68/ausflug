@@ -143,7 +143,7 @@ def render_poi_hikes(selected_trip_id: Optional[int] = None, *, page_id: str = "
         except Exception as e:  # keep robust
             st.warning(f"Fehler beim Laden von '{h.get('name','?')}': {e}")
 
-    folium.LayerControl(collapsed=False).add_to(m)
+    #folium.LayerControl(collapsed=False).add_to(m)
     fit_bounds(m, points, max_zoom=MAX_ZOOM)
     force_fit_on_mount(m, points, max_zoom=MAX_ZOOM)
 

@@ -14,12 +14,13 @@ st.markdown(f"""
     ### 🗺️ Es geht nach: {trip_name}
     """
 )
-tab1, tab2, tab3, tab4 = st.tabs(["Info", "Camping", "POIS", "Restaurants"])
-with tab1:
+options = ["Info", "Camping", "POIs", "Restaurants"]
+choice = st.segmented_control(label="Menu", options=options, key="section", default="Info")
+if choice == "Info":
     render_startpage()
-with tab2:
+elif choice == "Camping":
     render_camping()
-with tab3:
+elif choice == "POIs":
     render_poi_hikes()
-with tab4:
+else:
     render_restaurants()

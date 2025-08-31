@@ -1,11 +1,14 @@
 # app_overview.py
 from __future__ import annotations
+
 import streamlit as st
-from start import render_startpage
-from camping import render_camping
-from hikes_POI import render_poi_hikes
-from restaurants import render_restaurants
-from data import locations_home, locations_trip, winner_id
+
+from app.camping_section import render_camping
+from app.hikes_section import render_poi_hikes
+from app.overview_section import render_startpage
+from app.restaurants_section import render_restaurants
+from data import locations_trip, winner_id
+
 trip_name, trip_center = locations_trip[winner_id]
 
 

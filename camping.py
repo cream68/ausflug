@@ -130,5 +130,5 @@ def render_camping(selected_trip_id: Optional[int] = None, *, key: Optional[str]
     view_hash = abs(hash(bounds_tuple)) % 10_000_000  # short
     map_key = key or f"camping_map_{trip_id}_{view_hash}"
 
-    _st_render_map(m, key="start", **_RENDER_ARGS)
+    _st_render_map(m, key="camping", **_RENDER_ARGS)
 

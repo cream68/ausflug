@@ -117,7 +117,7 @@ def render_restaurants(selected_trip_id: Optional[int] = None, *, page_id: str =
     st.subheader("Restaurant-Liste")
     df_rests = pd.DataFrame([
         {"Name": r.get("name",""), "Beschreibung": r.get("description",""),
-         "Latitude": r.get("lat"), "Longitude": r.get("lon"), "Google Maps": r.get("gmap_url","")}
+        "Google Maps": r.get("gmap_url","")}
         for r in trip_rests
     ])
     st.dataframe(

@@ -156,7 +156,7 @@ def render_poi_hikes(selected_trip_id: Optional[int] = None, *, page_id: str = "
     # Note: address intentionally omitted (per your earlier requirement)
     df_pois = pd.DataFrame([
         {"Name": p.get("name",""), "Beschreibung": p.get("description",""),
-         "Latitude": p.get("lat"), "Longitude": p.get("lon"), "Google Maps": p.get("gmap_url","")}
+        "Google Maps": p.get("gmap_url","")}
         for p in trip_pois
     ])
     st.dataframe(

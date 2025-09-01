@@ -45,6 +45,13 @@ restaurants = [
     },
     {
         "trip_id": 1,
+        "name": "Camping Schachenhorn",
+        "address": "Unnamed Road, 78351, Radolfzeller Str. 23, 78351 Bodman-Ludwigshafen",
+        "description": "gut und nah",
+        "gmap_url": "https://maps.app.goo.gl/fWfKsJYtDz9RFyyYA",
+    },
+    {
+        "trip_id": 1,
         "name": "MERAKI Modern Greek Taverna",
         "address": "Höristraße 2, 78315 Radolfzell am Bodensee",
         "description": "Griechische Küche",

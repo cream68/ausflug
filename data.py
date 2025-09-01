@@ -91,6 +91,13 @@ POIs = [
     },
     {
         "trip_id": 1,
+        "name": "Insel Mainau",
+        "address": "Insel Mainau, 78465 Konstanz",
+        "description": " Echt schön mit vielen Blumen und die haben eine Baumsammlung!",
+        "gmap_url": "https://maps.app.goo.gl/ftLmC3DZGVP2hNUE6",
+    },
+    {
+        "trip_id": 1,
         "name": "Burgruine Hohentwiel (Singen)",
         "address": "Hohentwiel, 78224 Singen",
         "description": "Ruine der größten Burganlage Deutschlands hoch über Singen, mit herrlichem Blick auf Hegau und Bodensee.",
